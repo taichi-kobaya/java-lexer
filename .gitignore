@@ -1,0 +1,21 @@
+# Maven のビルド成果物
+target/
+
+# IDEの設定ファイル
+.idea/
+.vscode/
+
+# ログファイル
+*.log
+
+# コンパイルされた Java クラスファイル
+*.class
+
+# JAR ファイル
+*.jar
+
+# IntelliJ IDEA プロジェクトファイル
+*.iml
+
+# Vim 一時ファイル
+*.swp
